@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeleChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1843890152525317</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="share_using">Test</string>
+    <string name="welcome_message">Welcome to TeleChat</string>
+</resources>
